@@ -1,0 +1,17 @@
+C:\Hoc\fe\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Hoc\fe\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Hoc\fe\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Hoc\fe\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Hoc\fe\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Hoc\fe\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Hoc\fe\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Hoc\fe\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojAssemblyReference.cache
+C:\Hoc\fe\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Hoc\fe\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Hoc\fe\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb

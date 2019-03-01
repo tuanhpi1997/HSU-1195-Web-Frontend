@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\HomeCinema\TuanCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\HomeCinema\TuanCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\HomeCinema\TuanCinema.Entities\obj\Debug\TuanCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HomeCinema\TuanCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\HomeCinema\TuanCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\TuanCinema.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\TuanCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\TuanCinema\TuanCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\TuanCinema\TuanCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\Admin\Desktop\TuanCinema\TuanCinema.Entities\obj\Debug\TuanCinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TuanCinema\TuanCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Users\Admin\Desktop\TuanCinema\TuanCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
